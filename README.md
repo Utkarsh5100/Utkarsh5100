@@ -284,24 +284,12 @@ ML-powered agricultural analytics platform for data-driven farming decisions:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshshukla5100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh5100)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/coder_utkarsh/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UtkarshShukla5)
 
-**Email:** utkarshshukla5100@gmail.com | **Phone:** [Your Contact]
+**Email:** utkarshshukla5100@gmail.com 
 
 </div>
 
 ---
-
-## 📝 Blog & Articles
-
-<div align="center">
-
-- 📖 [Understanding MERN Stack Architecture](link)
-- 🤖 [ML Model Deployment Guide](link)
-- ⚡ [Performance Optimization Tips](link)
-
-</div>
-
 ---
 
 ## 💡 Philosophy & Values
@@ -327,6 +315,6 @@ ML-powered agricultural analytics platform for data-driven farming decisions:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=100&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=30&fontColor=fff"/>
 
-**⭐ Star this repo if you found it helpful! | Made with ❤️ by Utkarsh Shukla**
+**⭐ Made with ❤️ by Utkarsh Shukla**
 
 </div>
