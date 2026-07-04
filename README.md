@@ -52,12 +52,8 @@ const utkarsh = {
 - 📊 Optimize system architecture and performance
 - 🎯 Solve real-world problems through code
 - 🌐 Design scalable backend systems
-
-**Where I Learn:** 📚
-- 🏆 LeetCode & competitive programming
-- 📖 Open source contribution
 - 💡 Building projects from scratch
-- 🎓 Continuous learning & innovation
+
 
 </td>
 </tr>
@@ -183,22 +179,7 @@ ML-powered agricultural analytics platform for data-driven farming decisions:
 
 ---
 
-## 📈 Competitive Programming Journey
 
-<div align="center">
-
-| Platform | Progress | Level | Link |
-|----------|----------|-------|------|
-| 🟧 **LeetCode** | 200+ Problems | Intermediate | [![LeetCode](https://img.shields.io/badge/Profile-Visit-blue?style=flat-square)](https://leetcode.com/u/coder_utkarsh/) |
-| 🟩 **HackerRank** | Active Solver | Gold Badge | DSA & Algorithms |
-| 🟢 **GeeksforGeeks** | 150+ Articles Studied | Regular Contributor | [Profile](https://auth.geeksforgeeks.org/user/utkarshshukla5100) |
-| 💻 **GitHub** | 30+ Projects | Active Developer | Building Solutions |
-| 🏆 **Codeforces** | Rating 1400+ | Intermediate | Problem Solving |
-
-**Problem-Solving Stats:** 
-- Time Complexity Optimization Specialist
-- Pattern Recognition & Algorithm Design
-- 95% Problem Success Rate on LeetCode
 
 </div>
 
@@ -224,41 +205,7 @@ ML-powered agricultural analytics platform for data-driven farming decisions:
 
 </div>
 
----
 
-## 🎯 2026 Roadmap
-
-<table>
-<tr>
-<td>
-
-#### Phase 1️⃣ - Q1 2026
-- ✅ Master Advanced React Patterns
-- ✅ Build 3+ Production Projects
-- ✅ 250+ LeetCode Problems
-- ✅ System Design Fundamentals
-
-</td>
-<td>
-
-#### Phase 2️⃣ - Q2-Q3 2026
-- ✅ Secure Internship/Full-time Role
-- ✅ Contribute to 5+ Open Source
-- ✅ System Design Deep Dive
-- ✅ Cloud Deployment (AWS/GCP)
-
-</td>
-<td>
-
-#### Phase 3️⃣ - Q4 2026
-- ✅ Full Stack Mastery
-- ✅ ML Implementation Projects
-- ✅ Network & Community Growth
-- ✅ Technical Blog & Knowledge Share
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -283,7 +230,6 @@ ML-powered agricultural analytics platform for data-driven farming decisions:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-shukla51)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshshukla5100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Utkarsh5100)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/coder_utkarsh/)
 
 **Email:** utkarshshukla5100@gmail.com 
 
@@ -296,13 +242,13 @@ ML-powered agricultural analytics platform for data-driven farming decisions:
 
 <div align="center">
 
-### 💡 **"First, solve the problem. Then, write the code."**
+### 💡 **"Hard Work, Dedication and Consistency is the key."**
 
 > I believe in writing clean, maintainable, and scalable code. Every project is an opportunity to learn, innovate, and create value.
 
 **Core Values:** 
 - Continuous Learning
-- Code Quality
+- Quality Code
 - Problem-Solving Mindset
 - Collaboration & Teamwork
 - Innovation & Creativity
